@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Data Structures"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Calculator"
+	}
+}
